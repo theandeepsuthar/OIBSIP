@@ -9,7 +9,7 @@ Setosa, Versicolor, Virginia. The goal was to develop a model that accurately pr
 
 #DataScienc
 
-task 2:unemployment_analysis_with_python
+TASK 2: UNEMPLOYMENT ANALYSIS WITH PYTHON
 
 In this project, I focused on utilizing Python to analyze unemployment trends. I worked with two datasets to gain insights into employment and unemployment patterns in both rural and urban areas, as well as different regions.
 
