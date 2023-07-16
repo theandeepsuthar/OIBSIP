@@ -22,3 +22,8 @@ Dataset 2:
 Dataset 2 allowed me to analyze employment and unemployment across different regions. The South region stood out with a high estimated unemployment rate, while the West region had a substantial number of estimated employed individuals. Furthermore, the Northeast region displayed a high estimated labor participation rate.
 By leveraging Python's data analysis capabilities, I was able to draw meaningful conclusions from these datasets. This project has enhanced my skills in data analysis and Python programming, providing me with valuable insights into unemployment trends.
 I am grateful for the opportunity to work on this project during my internship at Oasis Infobyte. It has been a rewarding experience that has expanded my knowledge and proficiency in Python and data analysis.
+
+
+Task 5: SALES PREDICTION USING PYTHON
+
+Sales prediction plays a crucial role in various industries, as it enables businesses to anticipate customer demand, optimize inventory, and plan marketing strategies effectively. In this project, we leverage Python's data analytics and machine learning capabilities to develop a sales prediction model.
